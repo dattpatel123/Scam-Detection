@@ -1,6 +1,6 @@
 # Scam Detector 
 
-Try it out here: https://scamdetectorpublic-1.streamlit.app
+Try it out here: [https://scamdetectorpublic-1.streamlit.app](https://scamdetectorpublic-1.streamlit.app)
 
 During this AI4All accelerator project, we tackled the problem of scam and smishing text messages. By utilizing Python, random forest model, and streamlit we developed a program that helps identify if a text message is a scam of not. 
 
@@ -45,7 +45,7 @@ Scams are increasing and becoming harder to spot, especially with advances in AI
 
 
 *This project was completed in collaboration with:*
-- *Datt Patel ([https://github.com/dattpatel123])*
-- *Seonyoung Lee ([https://github.com/Seonyoungsyl])*
-- *Rupashi Bahl ([https://github.com/rupashibahl])*
-- *Ruth Chane ([https://github.com/Ruth-Ch])*
+- *Datt Patel [https://github.com/dattpatel123](https://github.com/dattpatel123)*
+- *Seonyoung Lee [https://github.com/Seonyoungsyl](https://github.com/Seonyoungsyl)*
+- *Rupashi Bahl [https://github.com/rupashibahl](https://github.com/rupashibahl)*
+- *Ruth Chane [https://github.com/Ruth-Ch](https://github.com/Ruth-Ch)*
