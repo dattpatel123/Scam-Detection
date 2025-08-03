@@ -1,4 +1,4 @@
-# Scam Detector  - 
+# Scam Detector 
 
 Try it out here: https://scamdetectorpublic-1.streamlit.app
 
