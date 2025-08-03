@@ -2,7 +2,7 @@
 
 Try it out here: [https://scamdetectorpublic-1.streamlit.app](https://scamdetectorpublic-1.streamlit.app)
 
-During this AI4All accelerator project, we tackled the problem of scam and smishing text messages. By utilizing Python, random forest model, and streamlit we developed a program that helps identify if a text message is a scam of not. 
+During this AI4ALL accelerator project, we tackled the problem of scam and smishing text messages. By utilizing Python, random forest model, and streamlit we developed a program that helps identify if a text message is a scam of not. 
 
 
 
